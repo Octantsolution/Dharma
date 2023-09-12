@@ -21,6 +21,7 @@ module.exports.routes = {
 
   '/': { view: 'pages/homepage' },
 
+  'POST /Dharma/user/login':'userController.'
 
   /***************************************************************************
   *                                                                          *
